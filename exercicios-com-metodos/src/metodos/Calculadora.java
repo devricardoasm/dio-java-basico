@@ -1,3 +1,5 @@
+package metodos;
+
 public class Calculadora {
     
     public static void soma (double numero1, double numero2) {

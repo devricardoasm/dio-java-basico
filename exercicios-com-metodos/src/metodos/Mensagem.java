@@ -1,3 +1,5 @@
+package metodos;
+
 //Exercicio que visa a criação (e chamada) de método dentro de outro método
 
 public class Mensagem {
